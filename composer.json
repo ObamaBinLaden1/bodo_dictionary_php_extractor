@@ -1,0 +1,13 @@
+{
+    "name": "mars/thebodo-php",
+    "type": "project",
+    "require": {
+        "kreait/firebase-php": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "ObamaBinLaden1",
+            "email": "marungshanew@gmail.com"
+        }
+    ]
+}
